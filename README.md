@@ -2,8 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-  This is a basic dapp that allows users to POST and GET from the Polygon Mainnet Blockchain Mumbai Testnet Blockchain using a simple user interface using ethers.js and the polygon API.
-  Features include using your private keys to make a payment to any valid wallet address and viewing the transaction history of any valid wallet address in your console fetched from the polygon API.
+  This is a basic dapp that allows users to POST and GET from the Polygon Mainnet Blockchain and Mumbai Testnet Blockchain using a simple user interface using ethers.js and the polygon API.
+  Features include using your private keys to make a payment to any valid wallet address using gas price feeds from polygon gas station and viewing the transaction history of any valid wallet address in your console fetched from the polygon API.
   To use with localhost, the results are shown in the console.
 
 ## Available Scripts
